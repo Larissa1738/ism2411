@@ -1,17 +1,16 @@
-# ISM2411 — Python for Business
+## ISM2411 - Python for Business
 
 **Name:** Larissa Paiva
 
 **Semester:** Fall 2026
-
 ## About This Repo
 
 This repository contains my Python assignments for ISM2411. Each folder shows a different module where I practice programming.
 
 ## Modules
 
-- `week07/` — Functions: Python programming exercises
-- `week08/` — Git and GitHub: learning how to save and upload assignments
+- `week07/`- Functions: Python programming exercises
+- `week08/`- Git and GitHub: learning how to save and upload assignments
 
 ## How to Run
 
@@ -21,10 +20,14 @@ Open the terminal and type:
 python3 week07/functions.py
 ```
 ## Reflection
-4786b58 Initial commit
+```
+4639d40 fix README formatting and reflection
+01dc59d add lab 8 reflection to README
 abb9d3a add README with module listing and run instructions
 39687b6 add module 7 functions: calculate_tax, apply_discount, final_price
 c7203e6 add .gitignore for Python and OS files
+4786b58 Initial commit
+```
 My commit history shows that I am organized and complete my work step by step. It also shows that I keep track of my changes and use clear descriptions to explain what I have done.
 
 Git lets me keep track of what I changed and also save different versions of my work. Before I used git, I would just edit and save my files like normal but now, I can make commits while I work and go back to past versions if something doesn't work.
