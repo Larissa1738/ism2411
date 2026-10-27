@@ -6,7 +6,7 @@
 
 ## About This Repo
 
-This repository contains my Python assignments for ISM2411. Each folder represents a different module where I practice programming skills.
+This repository contains my Python assignments for ISM2411. Each folder shows a different module where I practice programming.
 
 ## Modules
 
@@ -21,6 +21,7 @@ Open the terminal and type:
 python3 week07/functions.py
 ```
 ## Reflection
+4786b58 Initial commit
 abb9d3a add README with module listing and run instructions
 39687b6 add module 7 functions: calculate_tax, apply_discount, final_price
 c7203e6 add .gitignore for Python and OS files
